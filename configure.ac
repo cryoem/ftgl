@@ -134,12 +134,7 @@ AC_CONFIG_FILES([
 ])
 AC_CONFIG_FILES([
   Makefile
-  demo/Makefile
-  docs/Makefile
-  docs/doxygen.cfg
-  msvc/Makefile
   src/Makefile
-  test/Makefile
 ])
 AC_OUTPUT
 
